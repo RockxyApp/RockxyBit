@@ -5,5 +5,21 @@
     <link>https://raw.githubusercontent.com/RockxyApp/RockxyBit/main/appcast.xml</link>
     <description>RockxyBit release channel</description>
     <language>en</language>
+    <item>
+      <title>RockxyBit 0.1.0</title>
+      <pubDate>Sun, 08 Nov 2026 12:15:47 GMT</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/RockxyApp/RockxyBit/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2.0</sparkle:minimumSystemVersion>
+      <description>RockxyBit 0.1.0 is the first macOS release of our API request workbench.
+
+Create and replay requests, organize them in collections and environments, inspect responses, and keep useful requests for later. Import from cURL, HAR, Postman, OpenAPI, SoapUI, and selected Rockxy captures. Review a request in RockxyBit before exporting a rule file for Rockxy.
+
+The app has a usable free tier. A Pro Standard or Pro Personal licence unlocks additional comparison, request variant, environment matrix, runner, mock server, and Rockxy handoff capabilities. Licence activation and update eligibility are checked through RockxyBE.
+
+Requires macOS 26.2 or later. The download is Developer ID signed and notarized.</description>
+      <enclosure url="https://github.com/RockxyApp/RockxyBit/releases/download/v0.1.0/RockxyBit-0.1.0-1.dmg" length="25233788" type="application/octet-stream" sparkle:edSignature="+R7QsG/tOFOklhSv4Dmjq5va0mEAs3ZbUO7j2DiMbY6dZhdNIL/DFQvrsfMfA32DBYqcAApUMPwEKhhYp787Cg=="/>
+    </item>
   </channel>
 </rss>
