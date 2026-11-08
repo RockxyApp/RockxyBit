@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>RockxyBit</title>
+    <link>https://raw.githubusercontent.com/RockxyApp/RockxyBit/main/appcast.xml</link>
+    <description>RockxyBit release channel</description>
+    <language>en</language>
+  </channel>
+</rss>
