@@ -6,6 +6,22 @@
     <description>RockxyBit release channel</description>
     <language>en</language>
     <item>
+      <title>RockxyBit 0.2.0</title>
+      <pubDate>Sat, 14 Nov 2026 08:57:17 GMT</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/RockxyApp/RockxyBit/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2.0</sparkle:minimumSystemVersion>
+      <description>RockxyBit 0.2.0 for macOS
+
+This release updates the native API request workbench with a capture-to-replay comparison view, git-based collection import and export, and faster editing in the request workbench. It also improves handling of sensitive request data in collection exports and MCP request summaries.
+
+RockxyBit lets you compose and replay requests, inspect responses, organize collections and environments, and review imported API material before using it. Pro Standard and Pro Personal licences continue to unlock the applicable Pro features. Update renewals are not available for purchase in this release.
+
+Requires macOS 26.2 or later. The download is Developer ID signed and notarized.</description>
+      <enclosure url="https://github.com/RockxyApp/RockxyBit/releases/download/v0.2.0/RockxyBit-0.2.0-2.dmg" length="26951195" type="application/octet-stream" sparkle:edSignature="5Uzjzmwckl9BftOd/UhfEJ3UVc5VdbKQaSHR0drzjSN1TEV5v15JaVHWMCNK55b6V2fUHkqHmYDdT/unESvsCw=="/>
+    </item>
+    <item>
       <title>RockxyBit 0.1.0</title>
       <pubDate>Sun, 08 Nov 2026 12:15:47 GMT</pubDate>
       <sparkle:fullReleaseNotesLink>https://github.com/RockxyApp/RockxyBit/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
