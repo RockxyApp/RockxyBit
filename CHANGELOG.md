@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 — 2026-11-26
+
+- Support activation for new Pro Standard and Pro Personal purchases, covering one or two Macs respectively.
+- Keep existing Lemon licences valid with their original Mac limits and update eligibility.
+- Accept both purchase key formats and clarify where to find the key and purchase email.
+
 ## 0.2.0 — 2026-11-14
 
 - Add a capture-to-replay comparison view and git-based collection import and export.
