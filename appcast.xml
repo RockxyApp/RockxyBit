@@ -6,6 +6,20 @@
     <description>RockxyBit release channel</description>
     <language>en</language>
     <item>
+      <title>RockxyBit 0.2.1</title>
+      <pubDate>Thu, 26 Nov 2026 15:01:14 GMT</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/RockxyApp/RockxyBit/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2.0</sparkle:minimumSystemVersion>
+      <description># RockxyBit 0.2.1
+
+- Adds activation support for new RockxyBit Pro Standard and Personal purchases. Standard covers one Mac; Personal covers two.
+- Keeps existing RockxyBit Lemon licenses valid with their original Mac limits and update eligibility.
+- Makes the activation form work for both key formats and points buyers to their purchase email or Access purchase page.</description>
+      <enclosure url="https://github.com/RockxyApp/RockxyBit/releases/download/v0.2.1/RockxyBit-0.2.1-3.dmg" length="26086848" type="application/octet-stream" sparkle:edSignature="hbH5ZSCmg+QmBaLNjCrQPoEK04DyfmYI42VoF2Z/UutQcGdb4zKCmgaRznVWj9vPgsOIRNiMqkJOWWtgMM8JBA=="/>
+    </item>
+    <item>
       <title>RockxyBit 0.2.0</title>
       <pubDate>Sat, 14 Nov 2026 08:57:17 GMT</pubDate>
       <sparkle:fullReleaseNotesLink>https://github.com/RockxyApp/RockxyBit/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
